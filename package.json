@@ -1,0 +1,14 @@
+{
+  "name": "movieapp-client",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "4.0.0"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
